@@ -296,7 +296,7 @@ git init
 git add .
 git commit -m "Version 1.0"
 git branch -M main
-git remote add origin https://github.com/GeorgeMakhlouf05/Taller-Laravel---Autenticaci-n-y-Autorizaci-n
+git remote add origin https://github.com/GeorgeMakhlouf05/Taller-Laravel---Autenticacion-y-Autorizacion
 git push -u origin main
 ```
 
